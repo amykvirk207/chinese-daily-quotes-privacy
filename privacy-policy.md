@@ -15,4 +15,4 @@ Our app may use voice or system-level Android/TV OS services (e.g., voice playba
 The app is safe for general audiences and does not knowingly collect any information from children.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, email us at: [kauramrita2025@email.com]
+If you have any questions about this Privacy Policy, email us at: **kauramrita2025@email.com**
